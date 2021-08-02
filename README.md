@@ -2,7 +2,7 @@ How to use this???
 
 Bạn phải có cài python trong máy
 
-Clone về
+Clone nó về
 Bật cmd/powershell tại folder các bác mới clone về rồi chạy cái này để cài đủ thư viện
 
 pip install -r requirements.txt
